@@ -48,7 +48,7 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Category"
+name = "Products and Services"
 url = "categories/nature/"
 weight = 3
 
@@ -57,23 +57,18 @@ name = "Contact"
 url = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 # Meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Digitize Afrika"
+description = "Liyoyelo Business Solutions"
 # search  
 search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Digitize Afrika](https://www.digitizeafrika.com)"
 
 # Preloader
 [params.preloader]
